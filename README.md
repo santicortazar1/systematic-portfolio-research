@@ -1,4 +1,4 @@
-# Systematic Portfolio Research Lab
+# Systematic Portfolio Research 
 
 Exploratory systematic portfolio research and macroeconomic regime analysis in Python.
 
@@ -16,7 +16,7 @@ Current research includes the evaluation of Momentum, Low Volatility, and Qualit
 
 ## Objectives
 
-* Explore systematic portfolio allocation approaches using Python
+* Evaluate systematic portfolio allocation approaches using Python
 * Compare multifactor strategies against traditional 60/40 portfolios
 * Analyze portfolio behavior across changing macroeconomic environments
 * Develop reproducible financial research workflows
